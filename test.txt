@@ -1,5 +1,4 @@
-Hello Git
- 123
+Hello Git 123 Branch
 <<<<<<< HEAD
 It's new line.
 Add nwe line.  555557
