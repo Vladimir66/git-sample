@@ -1,4 +1,8 @@
 Hello Git
  123
+<<<<<<< HEAD
 It's new line.
 Add nwe line.  555557
+=======
+It's new line.
+>>>>>>> parent of 2b1cd18... Test status
